@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd /usr/src/app
-retire 
+retire "$@" 
